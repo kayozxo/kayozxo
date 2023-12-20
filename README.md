@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayozxo&show_icons=true&theme=catppuccin_mocha)](https://github.com/kayozxo/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayozxo&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/kayozxo/github-readme-stats)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
