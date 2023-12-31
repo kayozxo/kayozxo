@@ -1,7 +1,7 @@
 ### Hi, I'm Manoj! 👋🏻
 
 👨🏻‍🎓 Studying Computer Science and Engineering at [GITAM](gitam.edu) University, India.<br/>
-💭 Currently learning about UI/UX Design.<br/>
+💭 Currently working on personal projects.<br/>
 
 ---
 
@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayozxo&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/kayozxo/github-readme-stats)<br/>
+[![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayozxo&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/kayozxo/github-readme-stats)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
