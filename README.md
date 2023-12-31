@@ -1,6 +1,6 @@
 ### Hi, I'm Manoj! 👋🏻
 
-👨🏻‍🎓 Studying Computer Science and Engineering at [GITAM](gitam.edu) University, India.<br/>
+👨🏻‍🎓 Studying Computer Science and Engineering at [GITAM](https://gitam.edu) University, India.<br/>
 💭 Currently working on personal projects.<br/>
 
 ---
