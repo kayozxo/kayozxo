@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a simple password manager app.**
 
-- 🌱 I’m currently learning **JavaScript & UI/UX Design.**
+- 🌱 I’m currently learning **UI/UX Design.**
 
 - 📫 How to reach me **penugurthimanoj@gmail.com**
 
