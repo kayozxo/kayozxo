@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayozxo&label=Profile%20views&color=0e75b6&style=flat" alt="kayozxo" /> </p>
 
-- 🔭 I’m currently working on **portfolio website using framer.**
+- 🔭 I’m currently working on **GEMINI-API APP**
 
-- 🌱 I’m currently learning **UI/UX Design.**
+- 🌱 I’m currently learning **Langchain, Generative AI & LLMs**
 
 - 📫 How to reach me **penugurthimanoj@gmail.com**
 
