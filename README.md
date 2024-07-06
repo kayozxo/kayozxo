@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">A passionate student from India</h3>
+<!-- Axenide GitHub Profile -->
+<div align="justify">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayozxo&label=Profile%20views&color=0e75b6&style=flat" alt="kayozxo" /> </p>
+<!-- Profile -->
+<p align="left"><strong><samp><i>「</i></samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        👾 Hello World!
+      </b>
+      <br>
+        Future software developer and technologist, passionate about space and how the universe works. I create graphic designs, and I love to play with Python and LLM's. I also design websites and apps.
+      <br>
+      <br>
+      <b>
+        ~ Penugurthi Manoj (@kayozxo) ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp><i>」</i></samp></strong></p>
 
-- 🔭 I’m currently working on **my portfolio website**
+```hs
 
-- 🌱 I’m currently learning **Next.js** & **GO**
+           .             ​ kayozxo@world 
+          .c.           ┌───────────────────────────────┐ 
+         .ccc.           ​ OS : Penugurthi Manoj
+        .lllll.          ​ Kernel : NERD-DEV 2.25 
+       ..;'olll.         ​ WM : i3wm 
+      .dolllcccl.        ​ Shell : zsh
+     .lcc'   'ccc.       ​ Uptime : 19 years
+    .ccc'     'cc:.      ​ CPU : KZ MAX
+   .cccc'     'c:;..    └───────────────────────────────┘ 
+  ."'             '".     K   A   Y   O   Z   X   O   か 
 
-- 📫 How to reach me **penugurthimanoj@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kayozxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kayozxo" height="30" width="40" /></a>
-<a href="https://twitter.com/kayozxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kayozxo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/penugurthi-manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="penugurthi-manoj" height="30" width="40" /></a>
-<a href="https://instagram.com/kayozdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kayozdesigns" height="30" width="40" /></a>
-<a href="https://medium.com/@manojkowshik5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manojkowshik5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manojkowshik5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manojkowshik5" height="30" width="40" /></a>
+arch in ~ 
+  λ echo "Be Consistent!"
+```
+<br>
+<p align="center">
+<samp>
+  <i>Connect With Me</i>
+  <br>
+  <sup>
+    <b>
+    <a href="https://www.linkedin.com/in/penugurthi-manoj">🔗 LinkedIn</a> |
+    <a href="https://www.instagram.com/kayozdesigns">📷 Instagram</a> |
+    <a href="https://www.twitter.com/kayozxo">🐦 Twitter</a> |
+    <a href="https://www.leetcode.com/manojkowshik5">🧑🏻‍💻 Leetcode</a>
+    </b>
+    <br>
+  </sup>
+</samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
+<p align="center">
+<samp>
+  <i>Languages and Tools</i>
+  <br>
+  <sup>
+    <b>
+      Python | GO | C | HTML | CSS | Tailwind CSS | Next.js | Figma | Framer | Git | Bash | Linux
+    </b>
+    <br>
+  </sup>
+</samp>
+</p>
 
 [![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kayozxo&days=30&bg_color=1e1e2e&color=CBA6F7&line=CBA6F7&point=45475A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kayozxo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kayozxo" /></a></p><br><br>
+<br>
+<p align="center">
+<samp>
+  <i>Support Me</i>
+  <br>
+  <sup>
+    <b>
+      <a href="https://www.buymeacoffee.com/kayozxo">Buy Me a Coffee</a>
+    </b>
+    <br>
+  </sup>
+</samp>
+</p>
+
