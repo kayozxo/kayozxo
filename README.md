@@ -27,7 +27,7 @@
         .lllll.          ​ Kernel : NERD-DEV 2.25 
        ..;'olll.         ​ WM : i3wm 
       .dolllcccl.        ​ Shell : zsh
-     .lcc'   'ccc.       ​ Uptime : 19 years
+     .lcc'   'ccc.       ​ Uptime : 20 years
     .ccc'     'cc:.      ​ CPU : KZ MAX
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     K   A   Y   O   Z   X   O   か 
