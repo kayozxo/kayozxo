@@ -9,7 +9,7 @@
         👾 Hello World!
       </b>
       <br>
-        Future software developer and technologist, passionate about space and how the universe works. I create graphic designs, and I love to play with Python and LLM's. I also design websites and apps.
+        Future software developer and technologist, passionate about space and how the universe works. I create graphic designs, and I love to play with Python and LLMs. I also design websites and apps.
       <br>
       <br>
       <b>
@@ -44,7 +44,7 @@ arch in ~
     <b>
     <a href="https://www.linkedin.com/in/penugurthi-manoj">🔗 LinkedIn</a> |
     <a href="https://www.instagram.com/kayozdesigns">📷 Instagram</a> |
-    <a href="https://www.twitter.com/kayozxo">🐦 Twitter</a> |
+    <a href="https://www.twitter.com/kayozxo">🐦 X</a> |
     <a href="https://www.leetcode.com/manojkowshik5">🧑🏻‍💻 Leetcode</a>
     </b>
     <br>
