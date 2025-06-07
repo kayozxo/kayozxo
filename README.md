@@ -59,7 +59,7 @@ arch in ~
   <br>
   <sup>
     <b>
-      Python | GO | C | HTML | CSS | Tailwind CSS | Next.js | Figma | Framer | Git | Bash | Linux
+      Python | GO | C | HTML | CSS | JS | Tailwind CSS | Next.js | Figma | Framer | Git | Bash | Linux
     </b>
     <br>
   </sup>
