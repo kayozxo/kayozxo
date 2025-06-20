@@ -13,7 +13,7 @@
       <br>
       <br>
       <b>
-        ~ Penugurthi Manoj (@kayozxo) ~
+        ~ P Manoj (@kayozxo) ~
       </b>
     </samp>
   </p>
