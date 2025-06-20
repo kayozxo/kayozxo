@@ -23,7 +23,7 @@
 
            .             ​ kayozxo@world 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : Penugurthi Manoj
+         .ccc.           ​ OS : P Manoj
         .lllll.          ​ Kernel : NERD-DEV 2.25 
        ..;'olll.         ​ WM : i3wm 
       .dolllcccl.        ​ Shell : zsh
