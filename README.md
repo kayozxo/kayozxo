@@ -66,7 +66,7 @@ arch in ~
 </samp>
 </p>
 
-[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kayozxo&days=30&bg_color=1e1e2e&color=CBA6F7&line=CBA6F7&point=45475A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kayozxo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <p align="center">
